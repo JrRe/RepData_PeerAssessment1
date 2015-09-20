@@ -1,8 +1,8 @@
 ---
-title: "Reproducible Research - Peer Assessment 1"
-author: "Reka Thanabalan"
-date: "September 19, 2015"
-output: html_document
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
 ---
 Using data from an anonymous individual's personal activity monitoring device that collects data at 5 minute intervals through out the day during the months of October and November, 2012, the following analysis was made:
 
